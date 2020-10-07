@@ -10,3 +10,4 @@ An GUI that lets user draw shapes, change their colour, and delete them
 - Console must have colour chosen
 
 ## Screenshots
+![Interface](https://github.com/amjed55/Shape-Drawer/blob/main/Shape%20Drawer/Screenshots/GUI.png)
