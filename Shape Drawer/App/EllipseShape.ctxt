@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=xCoordinate\ yCoordinate\ colour
+comment0.target=EllipseShape(int,\ int,\ java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ \ \ Constructor\ to\ create\ an\ ellipse\ based\ on\ the\ mouse\ coordinates\ given\ from\ the\ drawPanel\r\n
+comment1.params=
+comment1.target=java.lang.String\ getShapeName()
+comment1.text=\r\n\ Returns\ the\ shape's\ name\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Return\ the\ x-coordinate\ of\ the\ mouse\ position\ for\ the\ ellipse\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Return\ the\ y-coordinate\ of\ the\ mouse\ position\ for\ the\ ellipse\r\n
+comment4.params=g2
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment4.text=\r\n\ \ Draw\ an\ ellipse\r\n
+numComments=5

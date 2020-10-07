@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleDatabase()
+comment0.text=\r\n\ Constructor\ to\ initialize\ the\ two\ ArrayList's\ for\ Part\ A.\ For\ Part\ B,\ they\ should\ be\ LinkedList\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getShapeList()
+comment1.text=\r\n\ Get\ the\ list\ of\ shapes\ from\ the\ simple\ database\r\n\ Part\ A\:\ You\ should\ get\ an\ ArrayList\r\n\ Part\ B\:\ You\ should\ get\ a\ LinkedList\r\n
+comment2.params=s
+comment2.target=void\ addShape(Shape)
+comment2.text=\r\n\ Add\ a\ shape\ to\ the\ simple\ database\r\n\ Part\ A\:\ Add\ to\ an\ ArrayList\r\n\ Part\ B\:\ Add\ to\ a\ LinkedList\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getLatestShape()
+comment3.text=\r\n\ Get\ the\ latest\ shape\ added\ to\ the\ simple\ database\r\n\ Part\ A\:\ Get\ latest\ shape\ from\ ArrayList\r\n\ Part\ B\:\ Get\ latest\ shape\ from\ LinkedList\r\n
+comment4.params=i
+comment4.target=Shape\ getShape(int)
+comment4.text=\r\n\ Get\ a\ shape\ from\ an\ index\r\n\ Part\ A\:\ Get\ from\ an\ index\ in\ ArrayList\r\n\ Part\ B\:\ Get\ from\ a\ LinkedList\ appropriately\ with\ the\ given\ index\r\n
+comment5.params=
+comment5.target=void\ Store()
+comment5.text=\r\n\ Store\ the\ shapes\ in\ the\ simple\ database\r\n\ Part\ A\:\ Store\ in\ ArrayList\r\n\ Part\ B\:\ Store\ in\ LinkedList\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getStoredShapes()
+comment6.text=\r\n\ Get\ the\ stored\ shapes\ from\ the\ simple\ database\r\n\ Part\ A\:\ restore\ from\ ArrayList\r\n\ Part\ B\:\ restore\ from\ LinkedList\r\n
+comment7.params=index
+comment7.target=void\ RemoveShape(int)
+comment7.text=\r\n\ Remove\ a\ shape\ from\ an\ index\r\n\ Part\ A\:\ Remove\ from\ an\ index\ in\ ArrayList\r\n\ Part\ B\:\ Remove\ from\ the\ LinkedList\ appropriately\ with\ the\ given\ index\r\n
+numComments=8

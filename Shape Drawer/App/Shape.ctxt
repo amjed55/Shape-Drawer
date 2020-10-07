@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=colourName
+comment0.target=Shape(java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ \ Constructor\ that\ assigns\ colour\ name\ to\ shape\r\n
+comment1.params=
+comment1.target=java.lang.String\ getShapeName()
+comment1.text=\r\n\ Returns\ the\ shape's\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment2.text=\r\n\ Returns\ the\ shape's\ colour\r\n
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment3.text=\r\n\ No\ drawing\ is\ to\ be\ done\r\n
+numComments=4

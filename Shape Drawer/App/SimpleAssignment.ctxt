@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=simpleDb
+comment0.target=SimpleAssignment(SimpleDatabase)
+comment0.text=\r\n\ Constructor\ for\ SimpleAssignment\r\n
+comment1.params=
+comment1.target=void\ createTextField()
+comment1.text=\r\n\ Create\ the\ necessary\ text\ field\ with\ its\ corresponding\ label\r\n
+comment2.params=
+comment2.target=void\ createButtons()
+comment2.text=\r\n\ Create\ all\ the\ necessary\ buttons\r\n
+comment3.params=
+comment3.target=void\ createList()
+comment3.text=\r\n\ Create\ the\ list\ to\ show\ the\ data\ in\ the\ simple\ database\r\n
+comment4.params=
+comment4.target=void\ createPanels()
+comment4.text=\r\n\ Creates\ all\ the\ panels\ in\ the\ GUI\ and\ add\ to\ the\ frame\r\n
+numComments=5
